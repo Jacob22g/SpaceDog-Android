@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">כלב חלל</string>
+    <string name="score">ניקוד</string>
+    <string name="game_over">משחק נגמר</string>
+    <string name="high_score">רשימת שיאים</string>
+    <string name="play">שחק</string>
+    <string name="settings">הגדרות</string>
+    <string name="music">מוזיקה</string>
+    <string name="sound">צליל</string>
+    <string name="space_dog">כלב חלל</string>
+    <string name="nice_game">משחק מעולה!</string>
+    <string name="enter_name">הזן שם</string>
+    <string name="save_score">שמור ניקוד</string>
+    <string name="select_level">בחר שלב</string>
+    <string name="dont_hit_the_dogs">אל תפגע בכלבים!</string>
+    <string name="game_pause">משחק נעצר</string>
+    <string name="do_you_wanna_exit">האם ברצונך לצאת?</string>
+    <string name="resume">המשך לשחק</string>
+    <string name="exit">יציאה</string>
+</resources>
